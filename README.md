@@ -6,11 +6,11 @@
 
 【現在のスキル】
 ◇コーディング
-・HTML5
-・CSS3(BEM/FLOCSS)
-・JavaScript
-・PHP(メールフォーム作成)
+-HTML5
+-CSS3(BEM/FLOCSS)
+-JavaScript
+-PHP(メールフォーム作成)
 
 ◇デザイン
-・Adobe Photoshop
-・Adobe XD
+-Adobe Photoshop
+-Adobe XD
