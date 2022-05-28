@@ -5,12 +5,12 @@
 また、お気軽にフォローいただければと思います。    
 
 【現在のスキル】  
-◇コーディング  
+◇コーディング
 * HTML5
 * CSS3(BEM/FLOCSS)
 * JavaScript
 * PHP(メールフォーム作成)    
 
-◇デザイン  
+◇デザイン
 * Adobe Photoshop
 * Adobe XD
